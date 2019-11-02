@@ -1,0 +1,9 @@
+node_modules
+
+# 里面是编辑器的一些相关设置
+.idea
+
+.vscode
+
+.git
+
